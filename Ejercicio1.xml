@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tiempo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="./Ejercicio1_esquema.xsd">
+   <comunidades>
+       <provincias>
+           <poblaciones>
+               <fecha></fecha>
+               <temperatura_maxima></temperatura_maxima>
+               <temperatura_minima></temperatura_minima>
+               <probabilidad_lluvia></probabilidad_lluvia>
+               <avisos_riesgo></avisos_riesgo>
+           </poblaciones>
+       </provincias>
+   </comunidades>
+</tiempo>
